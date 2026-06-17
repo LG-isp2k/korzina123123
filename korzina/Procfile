@@ -1,0 +1,1 @@
+web: gunicorn kopilka.wsgi:application
